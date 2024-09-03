@@ -7,7 +7,7 @@
 Motivation: “Obstacles don't have to stop you. If you run into a wall, don't turn around and give up. Figure out how to climb it, go through it, or work around it.” - MJ
 ---
 ## Baskeball Highlights
-- [The Future in Tech Page](https://go.raybo.org/tfit)
-- [Episode Guide](https://go.raybo.org/tfit-episodes)
-- [YouTube Playlist](https://go.raybo.org/tfit-youtube)
+- [The Lay-Up](https://rusmore.github.io/Russell-Moreno/audio/hl1.mp4)
+- [The Drive](https://rusmore.github.io/Russell-Moreno/audio/hl2.mp4)
+- [The Rebound](https://rusmore.github.io/Russell-Moreno/audio/hl3.mp4)
 
