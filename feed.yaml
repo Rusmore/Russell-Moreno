@@ -5,23 +5,23 @@ description: “Obstacles don't have to stop you. If you run into a wall, don't 
 image: images/me-basketball.jpg
 language: en-us
 category: Technology
-format: audio/mpeg
+format: audio/mp4
 item:
-  - title: EP01-What's Happening in 2023
+  - title: The Drive
     description: Ray Villalobos and Content Managers Natalie Pao and Simon St. Laurent discuss what 2023 holds for the future in technology.
     published: Thu, 12 Jan 2023 18:00:00 GMT
-    file: /audio/TFIT01.mp3
+    file: /audio/hl1.mp4
     duration: 00:00:36
     length: 576,324
-  - title: EP02-What is Generative AI?
+  - title: The Hustle
     description:  Pinar Demirdag discusses the fundamentals of generative AI, its practical applications, and future developments as companies create AI strategies in 2023.
     published: Thu, 19 Jan 2023 18:00:00 GMT
-    file: /audio/TFIT02.mp3
+    file: /audio/hl2.mp4
     duration: 00:00:22
     length: 351,963
-  - title: EP03-How Generative AI Will Change DevOps
+  - title: The Rebound
     description:  Jerome Hardaway explores how generative AI can revolutionize the software development process by increasing efficiency, automating repetitive tasks, and creating more sophisticated and innovative solutions.
     published: Thu, 26 Jan 2023 18:00:00 GMT
-    file: /audio/TFIT03.mp3
+    file: /audio/hl3.mp4
     duration: 00:00:19
     length: 305,488
