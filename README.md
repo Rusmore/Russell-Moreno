@@ -1,6 +1,6 @@
 # My Basketball Profile
 
-<img src="https://rusmore.github.io/russell-moreno/images/me-basketball.jpg" width="250">
+<img src="https://rusmore.github.io/Russell-Moreno/images/me-basketball.jpg" width="250">
 
 **30.1 PPG 10.1 RPG 4.0 APG 3.6 BPG 1.2 STL** 
 
